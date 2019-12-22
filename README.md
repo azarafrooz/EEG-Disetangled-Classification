@@ -19,7 +19,7 @@ For now, we consider the prior of Beat EPRS (event_related_potentials) to be Gau
 
 To repeat the experiment:
 
-Download the Mirr data in .h5 format from [here]{http://www.ling.uni-potsdam.de/mlcog/OpenMIIR/rl2016/data/} and place it  on a directory named data.
+Download the Mirr data in .h5 format from [here](http://www.ling.uni-potsdam.de/mlcog/OpenMIIR/rl2016/data/) and place it  on a directory named data.
 
 ```
 python3 trainer.py
